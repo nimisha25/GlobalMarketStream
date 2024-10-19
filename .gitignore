@@ -1,0 +1,36 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+*.env
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore checkpoints
+checkpoints/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore other IDE files
+*.swp
+
+# Ignore unnecessary files in scripts directory
+scripts/stream_generator.py
+scripts/kafka_consumer.py
+
+images/
+data/
