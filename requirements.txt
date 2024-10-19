@@ -5,3 +5,4 @@ pytz
 psycopg2-binary
 pyspark==3.4.0
 pytest
+sqlalchemy
