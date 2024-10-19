@@ -7,3 +7,4 @@ pyspark==3.4.0
 pytest
 sqlalchemy
 six==1.16.0
+python-dotenv
