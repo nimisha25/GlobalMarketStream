@@ -1,4 +1,4 @@
-kafka-python==2.0.1
+kafka-python==1.4.7
 pandas
 requests
 pytz
@@ -6,4 +6,4 @@ psycopg2-binary
 pyspark==3.4.0
 pytest
 sqlalchemy
-six
+six==1.16.0
