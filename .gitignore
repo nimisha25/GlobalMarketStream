@@ -32,5 +32,4 @@ Thumbs.db
 scripts/stream_generator.py
 scripts/kafka_consumer.py
 
-images/
 data/
